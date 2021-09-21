@@ -57,7 +57,7 @@ function App() {
           )}
         </ol>
       </div>
-      <p>Source <a href="https://www.nirfindia.org/2021/Ranking.html" id="source">NIRF Rankings</a></p>
+      <p>Source <a href="https://www.nirfindia.org/2021/Ranking.html" target="_blank" id="source" rel="noreferrer">NIRF Rankings</a></p>
     </div>
   );
 }
