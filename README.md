@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# neogcamp mark9
+
+## college rank
+
+This shows the top 10 colleges for engineering, medical, architecture and overall according to NIRF rankings
+
+Hosted at [college-rank.jsuryakt.codes](https://college-rank.jsuryakt.codes)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
